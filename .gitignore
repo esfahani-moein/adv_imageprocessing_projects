@@ -1,0 +1,7 @@
+# Ignore all PDF DOCX files
+*.pdf
+*.docx
+
+# Also ignore these files in any subdirectory
+**/*.pdf
+**/*.docx
